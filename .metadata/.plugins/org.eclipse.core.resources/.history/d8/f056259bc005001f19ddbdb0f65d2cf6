@@ -1,0 +1,10 @@
+package com.kh.AddressEX;
+
+import java.net.InetAddress;
+
+public class AddressPre {
+	//www.google.com
+	
+	
+	//2. daum에 대해 알아보기
+}

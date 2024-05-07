@@ -1,0 +1,15 @@
+package com.kh.variable;
+
+/*
+변수
+기본자료형
+
+참조자로형
+
+상수형
+
+열거형
+ * */
+public class VariableEx {
+
+}

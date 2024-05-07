@@ -1,0 +1,37 @@
+package com.kh.StackEx;
+
+import java.util.Stack;
+
+/*
+Stack(스택) 
+	데이터를 저장하는 자료구조
+	LIFO / Last In-First Out : 마지막에 추가된 항목이 먼저 제거
+	뒤로 가기 기능, 실행 취소 기능
+	
+	pop() : 맨 위 값을 제거하고 반환(보여줌)
+	peek() : 스택이나 큐에서 맨 위 또는 맨 앞에 있는 데이터를 반환(보여줌) 하지만 제거하지는 않음 
+	push() : 스택에서 값을 추가할 때는 push를 사용하거나 add를 사용해서 추가
+ * */
+public class StackEx {
+
+	public static void main(String[] args) {
+		Stack<Integer> stack = new Stack<>();
+		
+		stack.add(1);
+		stack.add(2);
+		stack.add(3);
+		
+		// 스택에서 맨 위 데이터를 확인하고 지우기
+		// pop() : 맨 위에 있는 데이터를 제거하고 그 값을 반환(보여줌)
+		int top = stack.pop();
+		System.out.println(top);
+		
+		// peek() : 스택에서 맨 위 데이터 확인
+		int numCheck = stack.peek();
+		System.out.println(numCheck);
+		
+		// isEmpty() : 스택이 비어있는지 확인
+		boolean isEmpty = stack.isEmpty();
+		System.out.println(isEmpty);
+	}
+}

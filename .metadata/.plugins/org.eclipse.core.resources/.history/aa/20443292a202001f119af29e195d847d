@@ -1,0 +1,14 @@
+package com.kh.imageEx;
+
+import java.io.FileInputStream;
+
+public class ImageCopyPre2 {
+
+	public static void main(String[] args) {
+		
+		String 원본이미지 = "src/com/kh/imageEx/marley.jpg";
+		String 복사이미지 = "src/com/kh/imageEx/marley.jpg";
+		
+		FileInputStream 파일읽기 = new FileInputStream(원본이미지);
+	}
+}

@@ -1,0 +1,12 @@
+package com.kh.practice.book.model.dao;
+
+public class BookDAO {
+
+	public void fileSave(Book[] bArr) {
+		
+	}
+	
+	public Book[] fileRead() {
+		
+	}
+}

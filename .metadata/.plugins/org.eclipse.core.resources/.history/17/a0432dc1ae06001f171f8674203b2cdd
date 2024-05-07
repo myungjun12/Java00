@@ -1,0 +1,20 @@
+package com.kh.Socket;
+
+import java.io.IOException;
+import java.net.ServerSocket;
+
+public class ServerEx {
+	
+	public static void main(String[] args) {
+		
+		try {
+			
+			ServerSocket server_Socket = new ServerSocket(1004);
+		
+		} catch (IOException e) {
+			System.out.println("해당 포트가 열려있습니다.");
+			e.printStackTrace();
+		}
+	}
+	
+}

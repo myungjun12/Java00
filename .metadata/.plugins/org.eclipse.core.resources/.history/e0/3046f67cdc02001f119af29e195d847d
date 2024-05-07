@@ -1,0 +1,34 @@
+package com.kh.practice.book.view;
+
+import java.util.Scanner;
+
+import com.kh.practice.book.controller.BookController;
+
+public class BookMenu {
+
+	BookController bc = new BookController();
+	Scanner sc = new Scanner(System.in);
+	//기본생성자
+	public BookMenu() {
+	}
+	
+	public void mainMenu() {
+		System.out.println("1. 도서 추가 저장");
+		System.out.println("2. 저장 도서 출력");
+		System.out.println("0. 종료");
+		System.out.print("메뉴 선택 : ");
+		int 
+	}
+	
+	
+	
+	public void fileSave() {
+		
+	}
+	
+	public void fileRead() {
+		
+	}
+	
+
+}

@@ -1,0 +1,8 @@
+package com.kh.SocketEX;
+
+/*
+Socket : 컴퓨터에서 통신을 하게 해주는 역할을 함
+ * */
+public class SocketEX {
+
+}

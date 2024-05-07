@@ -1,0 +1,22 @@
+package com.kh.StackEx;
+
+import java.util.LinkedList;
+import java.util.Queue;
+
+public class QueuePre {
+
+	public static void main(String[] args) {
+		
+		Queue<Integer> que = new LinkedList<>();
+		
+		que.offer(80);
+		que.offer(60);
+		que.offer(30);
+		que.offer(20);
+		
+		int 맨앞제거되는값 = que.poll();
+		System.out.println(맨앞제거되는값);
+		System.out.println("맨 앞의 값 : " + que.peek());
+		System.out.println("que 비어있는지 확인 : ");
+	}
+}

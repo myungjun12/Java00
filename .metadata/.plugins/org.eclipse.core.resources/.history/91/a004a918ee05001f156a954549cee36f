@@ -1,0 +1,9 @@
+package com.kh.StackEx;
+
+/*
+Queue(큐)
+	먼저 추가된 항목이 먼저 제거
+ * */
+public class QueEx {
+
+}

@@ -1,0 +1,9 @@
+package com.kh.StackEx;
+
+public class QueuePre {
+
+	public static void main(String[] args) {
+		
+		Queue<Integer> que = new LinkedList<>();
+	}
+}

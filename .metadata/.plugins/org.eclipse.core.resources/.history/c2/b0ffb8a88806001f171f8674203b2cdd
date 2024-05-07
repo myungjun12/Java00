@@ -1,0 +1,18 @@
+package com.kh.variable;
+
+/*
+변수
+기본자료형
+	숫자 : byte short int		// 기본으로 int형 사용 
+	문자 : char
+	실수 : float, doule
+	논리 : boolean
+참조자료형 
+
+상수형
+
+열거형
+ * */
+public class VariableEx {
+
+}

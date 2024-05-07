@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;ControlSwitch.java&apos; to &apos;99_practice/src/com.kh.operatorPre&apos;&#x0D;&#x0A;- Original project: &apos;03_Control&apos;&#x0D;&#x0A;- Destination element: &apos;99_practice/src/com.kh.operatorPre&apos;&#x0D;&#x0A;- Original element: &apos;com.kh.conditionEx.ControlSwitch.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=99_practice/src&lt;com.kh.operatorPre" element1="/src&lt;com.kh.conditionEx{ControlSwitch.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1712634444274" units="1" version="1.0"/>
+</session>

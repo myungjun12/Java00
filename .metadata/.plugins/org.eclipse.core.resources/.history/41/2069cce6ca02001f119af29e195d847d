@@ -1,0 +1,9 @@
+package com.kh.practice.file.view.FileMenu;
+
+import java.util.Scanner;
+
+public class FileMenu {
+	//키보드로 입력 받을 Scanner 작성
+	Scanner sc = new Scanner(System.in);
+	
+}

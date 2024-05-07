@@ -1,0 +1,9 @@
+package com.kh.practice.book.model.vo;
+
+public class Book {
+
+	public static void main(String[] args) {
+		
+		BookMenu menu = new BookMenu();
+	}
+}

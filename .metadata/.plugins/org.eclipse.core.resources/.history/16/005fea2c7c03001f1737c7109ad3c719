@@ -1,0 +1,15 @@
+package com.kh.variable.Pre;
+
+public class EnumPre {
+	
+	public enum 무지개 {빨강,주황,노랑,초록,파랑,남,보라}
+	
+// 필수 생성자
+	public EnumPre() {
+	}
+// 메서드
+	//메인메서드
+	public static void main(String[] args) {
+		
+	}
+}

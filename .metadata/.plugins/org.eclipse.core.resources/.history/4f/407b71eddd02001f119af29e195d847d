@@ -1,0 +1,34 @@
+package com.kh.practice.book.model.vo;
+
+import java.util.Calendar;
+
+import com.kh.practice.book.view.BookMenu;
+
+public class Book {
+//필드 
+	private String title  // 도서명
+	private String author  // 저자
+	private int price  // 가격
+	private Calendar date  // 출판날짜
+	private double discount // 할인율
+//메서드
+	
+	//Setter
+	
+	//Getter
+	
+	//기본생성자
+	public Book() {
+	}
+	//필수생성자
+	public Book(String title, String author,int price
+			, Calendar date,double discoount) {
+	}
+	
+	public String toString() {
+		return "";
+	}
+	
+	
+	
+}

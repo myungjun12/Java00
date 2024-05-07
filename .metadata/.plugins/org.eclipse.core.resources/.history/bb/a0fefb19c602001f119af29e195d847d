@@ -1,0 +1,13 @@
+package com.kh.fileEx;
+/*
+StringBuilder : 속도가 빠름
+ * */
+public class BuilderWriterEx {
+
+	public static void main(String[] args) {
+		//파일 생성
+		String 파일이름 = "줄.txt";
+		
+		BuilderWriter bw = BuilderWriter();
+	}
+}

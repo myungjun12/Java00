@@ -1,0 +1,12 @@
+package com.kh.practice.book.model.vo;
+
+import com.kh.practice.book.view.BookMenu;
+
+public class Book {
+
+	public static void main(String[] args) {
+		
+		BookMenu menu = new BookMenu();
+		menu.mainMenu();
+	}
+}

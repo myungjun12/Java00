@@ -1,0 +1,27 @@
+package com.kh.Socket;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.net.ServerSocket;
+import java.net.Socket;
+
+public class ServerEx {
+	
+	public static void main(String[] args) {
+		
+		Socket socket = null;
+		ServerSocket server_socket = null;
+		BufferedReader in = null;
+		PrintWriter out = null;
+		
+		try {
+			server_socket = new ServerSocket();
+		} catch (IOException e) {
+			System.out.println("해당 포트가 열려있습니다.");
+			e.printStackTrace();
+		}
+		
+		
+	}
+}

@@ -1,0 +1,13 @@
+package com.kh.practice.score.model.dao;
+
+import java.util.HashMap;
+import java.util.*;
+
+public class ScoreDAO {
+
+	private final String FINE_PATH = "score.txt";
+	
+	public void saveScore() {
+		
+	}
+}

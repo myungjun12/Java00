@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;AscTitle.java&apos; to &apos;99_ListMusic/src/com.kh.practice.list.music.model.compare&apos;&#x0D;&#x0A;- Original project: &apos;99_ListMusic&apos;&#x0D;&#x0A;- Destination element: &apos;99_ListMusic/src/com.kh.practice.list.music.model.compare&apos;&#x0D;&#x0A;- Original element: &apos;com.kh.practice.list.music.model.compare.AscTitle.java&apos;" description="Copy compilation unit" destination="/src&lt;com.kh.practice.list.music.model.compare" element1="/src&lt;com.kh.practice.list.music.model.compare{AscTitle.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1713947622961" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,10 @@
+package com.kh.fileEx;
+/*
+StringBuilder : 속도가 빠름
+ * */
+public class BuilderWriterEx {
+
+	public static void main(String[] args) {
+		
+	}
+}

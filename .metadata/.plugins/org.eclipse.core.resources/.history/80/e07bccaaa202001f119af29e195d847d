@@ -1,0 +1,20 @@
+package com.kh.imageEx;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+
+public class ImageCopyPre2 {
+
+	public static void main(String[] args) {
+		
+		String 원본이미지 = "src/com/kh/imageEx/marley.jpg";
+		String 복사이미지 = "src/com/kh/imageEx/marley.jpg";
+		
+		try {
+			FileInputStream 파일읽기 = new FileInputStream(원본이미지);
+		} catch (FileNotFoundException e) {
+			System.out.println("오류 발생!");
+			e.printStackTrace();
+		}
+	}
+}

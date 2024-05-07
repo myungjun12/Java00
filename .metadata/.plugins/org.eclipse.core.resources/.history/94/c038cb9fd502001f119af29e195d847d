@@ -1,0 +1,9 @@
+package com.kh.practice.score.model.dao;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class ScoreDAO {
+
+	Map<String, String> map = new HashMap<>();
+}

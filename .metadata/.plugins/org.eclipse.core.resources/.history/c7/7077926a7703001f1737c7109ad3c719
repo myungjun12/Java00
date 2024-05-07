@@ -1,0 +1,10 @@
+package com.kh.variable.Pre;
+
+public class EnumPre {
+	
+	public enum 무지개 {빨강,주황,노랑,초록,파랑,남,보라}
+	
+	public static void main(String[] args) {
+		무지개[] 배열 = 무지개.values();
+	}
+}

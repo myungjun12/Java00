@@ -1,0 +1,7 @@
+package com.kh.AddressEX;
+
+import java.net.InetAddress;
+
+public class AddressPre {
+	//www.google.com
+}

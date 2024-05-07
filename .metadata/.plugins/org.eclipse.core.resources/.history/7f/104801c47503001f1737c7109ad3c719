@@ -1,0 +1,7 @@
+package com.kh.variable.ex;
+/*
+Enum(열거형)
+ * */
+public class EnumEx {
+	
+}

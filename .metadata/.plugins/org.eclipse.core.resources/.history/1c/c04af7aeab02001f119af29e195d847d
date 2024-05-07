@@ -1,0 +1,9 @@
+package com.kh.fileEx;
+
+/*
+File
+ 	파일이나 / 폴더(drectory)
+ * */
+public class FileEx {
+
+}

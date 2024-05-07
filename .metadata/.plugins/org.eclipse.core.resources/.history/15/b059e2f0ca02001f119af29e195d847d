@@ -1,0 +1,15 @@
+package com.kh.practice.file.view.FileMenu;
+
+import java.util.Scanner;
+
+import com.kh.practice.file.model.controller.FileController;
+
+public class FileMenu {
+	//키보드로 입력 받을 Scanner 작성
+	Scanner sc = new Scanner(System.in);
+	FileController fc = new FileController();
+	
+	public void mainMenu() {
+		System.out.println("1. 파일저장");
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.kh.StackEx.Que&apos; to &apos;QueEx&apos;&#x0D;&#x0A;- Original project: &apos;16_스택(Stack)_큐(Que)&apos;&#x0D;&#x0A;- Original element: &apos;com.kh.StackEx.Que&apos;&#x0D;&#x0A;- Renamed element: &apos;com.kh.StackEx.QueEx&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Que&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.kh.StackEx{Que.java[Que" matchStrategy="1" name="QueEx" qualified="false" references="true" similarDeclarations="false" stamp="1714370505233" textual="false" version="1.0"/>
+</session>

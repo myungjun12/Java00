@@ -1,0 +1,8 @@
+package com.kh.Socket;
+
+import java.net.ServerSocket;
+
+public class ServerEx {
+	
+	ServerSocket server_Socket = new ServerSocket(1004);
+}

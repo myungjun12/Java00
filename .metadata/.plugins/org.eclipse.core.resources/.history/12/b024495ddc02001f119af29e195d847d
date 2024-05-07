@@ -1,0 +1,30 @@
+package com.kh.practice.book.view;
+
+import com.kh.practice.book.controller.BookController;
+
+public class BookMenu {
+
+	BookController bc = new BookController();
+	
+	//기본생성자
+	public BookMenu() {
+	}
+	
+	public void mainMenu() {
+		System.out.println("1. 도서 추가 저장");
+		System.out.println("2. 저장 도서 출력");
+		System.out.println("1. 도서 추가 저장");
+	}
+	
+	
+	
+	public void fileSave() {
+		
+	}
+	
+	public void fileRead() {
+		
+	}
+	
+
+}

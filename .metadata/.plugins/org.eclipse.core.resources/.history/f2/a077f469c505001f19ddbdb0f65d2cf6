@@ -1,0 +1,9 @@
+package com.kh.AddressEX;
+/*
+외부 아이피 주소를 알아봄
+
+내 집 주소 알아보기
+ * */
+public class AddressEx2 {
+
+}

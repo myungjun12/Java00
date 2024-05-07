@@ -1,0 +1,10 @@
+package com.kh.AddressEX;
+
+import java.net.InetAddress;
+
+public class AddressPre {
+	//www.google.com 호트스명과 IP주소 가져오기
+	public static void main(String[] args) {
+		InetAddress 구글주소 = InetAddress.getByName("www.google.com");
+	}
+}

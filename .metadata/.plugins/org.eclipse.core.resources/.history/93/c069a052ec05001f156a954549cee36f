@@ -1,0 +1,19 @@
+package com.kh.StackEx;
+
+import java.util.Stack;
+
+public class StackPre {
+	//main
+	public static void main(String[] args) {
+		Stack<Integer> stack = new Stack<>();
+		stack.push(10);
+		stack.push(20);
+		stack.push(30);
+		stack.push(40);
+		stack.push(50);
+		int removeStack = stack.pop();
+		System.out.println("제거된 제일위의 값 : " + removeStack);
+		System.out.println("현재 스택의 제일 위의 값 : " + stack.peek());
+		boolean isEmpty = stack.isEmpty();
+	}
+}
